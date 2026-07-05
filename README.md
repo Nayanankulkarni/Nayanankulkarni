@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Nayana. N. Kulkarni
 
-<!--
-**Nayanankulkarni/Nayanankulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Information Science Engineering Student | Java Developer | Python Enthusiast | AI & Machine Learning Learner
 
-Here are some ideas to get you started:
+- 🎓 Final Year B.E. Information Science Engineering
+- 🌱 Currently learning Machine Learning, AI Engineer
+- 💻 Interested in AI, Python and Software Development
+- 📫 Email: nayanank51@gmil.com
+- 🔗 LinkedIn: https://linkedin.com/in/nayana-n-kulkarni-09394b290
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+---
+
+## 🚀 Projects
+
+- 📝 Customer Review Intelligence 
+- 🎤 AI Voice Assistant
+- 🧮 AI Career Navigator, Resume Analyzer & Interview Platform
+- ⚖️ BMI Calculator
+- 🤖 AI Healthcare Chatbot
+
+---
+
+## 📊 GitHub Stats
+
+![Punith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrPunith&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrPunith&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nayanankulkarni&theme=tokyonight)
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
