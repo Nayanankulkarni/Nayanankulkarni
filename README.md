@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Punith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrPunith&show_icons=true&theme=tokyonight)
+![Nayana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrPunith&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrPunith&layout=compact&theme=tokyonight)
 
@@ -48,9 +48,9 @@
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nayana-n-kulkarni-09394b290)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:nayanank51@gmil.com)
 
 ---
 
