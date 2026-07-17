@@ -29,7 +29,7 @@
 - 🧮 AI Career Navigator, Resume Analyzer & Interview Platform
 - ⚖️ BMI Calculator
 - 🤖 AI Healthcare Chatbot
-
+  
 ---
 
 ## 📊 GitHub Stats
