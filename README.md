@@ -13,7 +13,9 @@
 
 ---
 <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/main/banner.jpg.png" width="70%" alt="Banner">
+</p>
 </p>
 ## 🚀 Tech Stack
 
