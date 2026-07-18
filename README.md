@@ -1,6 +1,8 @@
-# Hi 👋, I'm Nayana N. Kulkarni
+<h1 align="center">Hi 👋, I'm Nayana N Kulkarni </h1>
 
-### 💻 Information Science Engineering Student | Java Developer | Python Enthusiast | AI & Machine Learning Learner
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Information+Science+Engineering+Student;Python+Enthusiast;AI+%26+Machine+Learning+Learner;Aspiring+AI+Engineer" />
+</p>
 
 - 🎓 Final Year B.E. in Information Science & Engineering
 - 🌱 Currently Learning Machine Learning, AI & Full-Stack Development
@@ -10,7 +12,9 @@
 - 🔗 LinkedIn: https://linkedin.com/in/nayana-n-kulkarni-09394b290
 
 ---
-
+<p align="center">
+  <img src="banner.jpg.png" width="70%">
+</p>
 ## 🚀 Tech Stack
 
 <p align="center">
