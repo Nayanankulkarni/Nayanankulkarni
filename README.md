@@ -5,7 +5,9 @@ Aspiring AI Engineer | Java Developer | Python Enthusiast | Machine Learning Lea
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Java+Developer;Python+Developer;Always+Learning+New+Technologies" />
+<img src=<p align="center">
+  <img src="https://raw.githubusercontent.com/Nayanankulkarni/assets/main/github-banner.png" width="100%" />
+</p> />
 </p>
 
 ---
