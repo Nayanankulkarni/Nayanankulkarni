@@ -14,7 +14,9 @@
 ---
 
 <p align="center">
-  <img src="banner.jpg.png" width="100%">
+<img src="Banner.jpg" width="100%">
+</p>
+
 </p>
 
 ## 🚀 Tech Stack
