@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="./banner.jpg.png" width="70%">
+  <img src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/main/banner.jpg.png" width="70%" alt="Banner">
 </p>
 ## 🚀 Tech Stack
 
