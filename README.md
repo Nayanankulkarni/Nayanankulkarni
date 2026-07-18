@@ -12,11 +12,11 @@
 - 🔗 LinkedIn: https://linkedin.com/in/nayana-n-kulkarni-09394b290
 
 ---
-<p align="center">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/main/banner.jpg.png" width="70%" alt="Banner">
 </p>
-</p>
+
 ## 🚀 Tech Stack
 
 <p align="center">
