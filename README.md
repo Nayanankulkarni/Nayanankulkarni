@@ -20,7 +20,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,html,css,js,react,nodejs,git,github,vscode,linux,tensorflow,pytorch,opencv,mongodb,firebase&theme=dark&perline=7" />
+  <img src="banner.jpg.png" width="100%">
 </p>
 
 ---
