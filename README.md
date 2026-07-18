@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="banner.jpg.png" width="70%">
+  <img src="banner. jpg.png" width="70%">
 </p>
 ## 🚀 Tech Stack
 
