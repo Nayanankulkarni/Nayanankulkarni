@@ -26,7 +26,7 @@
 
 - 📝 Customer Review Intelligence 
 - 🎤 AI Voice Assistant
-- 🧮 AI Career Navigator, Resume Analyzer & Interview Platform
+- 🧮 AI Career Parser,Resume Analyzer & Interview Platform
 - ⚖️ BMI Calculator
 - 🤖 AI Healthcare Chatbot
   
