@@ -6,7 +6,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm04a203bnRxbm41ZXlzYnRqOG5wZnE0ZXEwbGN4MDZxNzJtajFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="350" alt="Coding Girl GIF">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/Nayanankulkarni&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
