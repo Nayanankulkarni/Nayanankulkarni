@@ -5,6 +5,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZm04a203bnRxbm41ZXlzYnRqOG5wZnE0ZXEwbGN4MDZxNzJtajFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="350" alt="Coding Girl GIF">
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Information+Science+Engineering+Student;Python+Enthusiast;AI+%26+Machine+Learning+Learner;Aspiring+AI+Engineer" />
