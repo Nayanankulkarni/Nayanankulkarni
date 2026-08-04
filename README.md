@@ -52,9 +52,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 ## 👾 Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+  <img src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 </p>
----
 
 ```text
 🏆 ACHIEVEMENTS
