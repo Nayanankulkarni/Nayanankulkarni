@@ -49,17 +49,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 🌊 LifeBridge AI – Emergency & Disaster Assistant
 - 🌐 Portfolio Website
   
-## 🐍 Snake Game
-
-<p align="center">
-  <a href="https://playsnake.org/" target="_blank">
-    <img src="https://img.shields.io/badge/🎮%20Play-Snake%20Game-success?style=for-the-badge" alt="Play Snake Game">
-  </a>
-</p>
-
-<p align="center">
-  <b>Take a quick break and play the classic Snake game! 🐍</b>
-</p>
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ```text
 🏆 ACHIEVEMENTS
