@@ -49,12 +49,16 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 🌊 LifeBridge AI – Emergency & Disaster Assistant
 - 🌐 Portfolio Website
   
-## 👾 Pac-Man
+## 🐍 Snake Game
 
 <p align="center">
-  <a href="https://www.google.com/logos/2010/pacman10-i.html">
-    <img src="https://img.shields.io/badge/👾%20Play-Pac--Man-yellow?style=for-the-badge" alt="Play Pac-Man">
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮%20Play-Snake%20Game-success?style=for-the-badge" alt="Play Snake Game">
   </a>
+</p>
+
+<p align="center">
+  <b>Take a quick break and play the classic Snake game! 🐍</b>
 </p>
 
 ```text
