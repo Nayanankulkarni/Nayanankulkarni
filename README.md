@@ -48,11 +48,13 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 🏥 AI Healthcare Chatbot
 - 🌊 LifeBridge AI – Emergency & Disaster Assistant
 - 🌐 Portfolio Website
-
-## 👾 Pac-Man Contribution Graph
+  
+## 👾 Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
+  <a href="https://www.google.com/logos/2010/pacman10-i.html">
+    <img src="https://img.shields.io/badge/👾%20Play-Pac--Man-yellow?style=for-the-badge" alt="Play Pac-Man">
+  </a>
 </p>
 
 ```text
