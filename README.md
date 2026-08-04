@@ -11,7 +11,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 - 🎓 Final Year B.E. in Information Science & Engineering
-- 🌱 Currently Learning Machine Learning, AI & Full-Stack Development
+- 🌱 Currently Learning Machine Learning, AI & Full-Stack Development    <p align="center">
+  <img src="https://raw.githubusercontent.com/Nayanankulkarni/REPOSITORY_NAME/main/assets/trader.gif" alt="Trader GIF" width="400">
+</p>
 - 💡 Passionate about AI, Python, Java and Software Development
 - 📍 Davangere, Karnataka, India
 - 📫 Email: **nayanank51@gmail.com**
