@@ -1,4 +1,4 @@
-<img align="right" src="assets/trader.gif" width="260" alt="Trader GIF">
+<img align="right" width="250" src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/main/assets/trader.gif" alt="Trader GIF">
 
 <h1 align="center">
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Nayana. N. Kulkarni
