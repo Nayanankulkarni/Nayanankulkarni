@@ -50,6 +50,15 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 🌐 Portfolio Website
 
 ---
+```text
+🏆 ACHIEVEMENTS
+
+🥇 VisionCraft AI
+🥈 AgentFlow AI
+🥉 GPT-2 Text Generator
+🎖 Kaggle Competitor
+🏅 AI Certifications
+```
 
 ## 📊 GitHub Stats
 
