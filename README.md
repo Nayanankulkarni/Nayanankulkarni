@@ -15,6 +15,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 🎓 Pursuing a Bachelor's degree in Information Science & Engineering (Final Year).
 📚 Continuously learning Python, SQL, Machine Learning, AI, and modern Full-Stack technologies.
 🌟 Passionate about building intelligent solutions through AI, Data Analytics, Python, Java, and Software Development.
+💡 Enthusiastic about AI Engineering, Data Analytics, Python, Java, and creating innovative software solutions.
 📍 Davangere, Karnataka, India.
 📫 Email: nayanank51@gmail.com
 🔗 LinkedIn: https://linkedin.com/in/nayana-n-kulkarni-09394b290⁠�
