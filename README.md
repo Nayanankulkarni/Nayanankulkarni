@@ -12,12 +12,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=Information+Science+Engineering+Student;Python+Enthusiast;AI+%26+Machine+Learning+Learner;Aspiring+AI+Engineer" />
 </p>
 
-- 🎓 Final Year B.E. in Information Science & Engineering
-- 🌱 Currently Learning Python ,SQL, Machine Learning, AI & Full-Stack Development    
-- 💡 Passionate about AI Engineer,Data Analytics, Python, Java and Software Development
-- 📍 Davangere, Karnataka, India
-- 📫 Email: **nayanank51@gmail.com**
-- 🔗 LinkedIn: https://linkedin.com/in/nayana-n-kulkarni-09394b290
+🎓 Pursuing a Bachelor's degree in Information Science & Engineering (Final Year).
+📚 Continuously learning Python, SQL, Machine Learning, AI, and modern Full-Stack technologies.
+🌟 Passionate about building intelligent solutions through AI, Data Analytics, Python, Java, and Software Development.
+📍 Davangere, Karnataka, India.
+📫 Email: nayanank51@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/nayana-n-kulkarni-09394b290⁠�
 
 ---
 
