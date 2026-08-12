@@ -1,7 +1,7 @@
 <img align="right" width="250" src="https://raw.githubusercontent.com/Nayanankulkarni/Nayanankulkarni/main/assets/trader.gif" alt="Trader GIF">
 
 <h1 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 🧿 I'm Nayana N Kulkarni🧿
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 🧿 I'm Nayana N K🧿
 </h1>
 
 <p align="center">
